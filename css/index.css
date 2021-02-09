@@ -1986,6 +1986,7 @@ blockquote footer cite:before {
   overflow: hidden;
   width: 80px;
   height: 80px;
+  border-radius: 10px !important;
 }
 .article-sort-item-img img {
   width: 100%;
@@ -2821,6 +2822,7 @@ blockquote footer cite:before {
   overflow: hidden;
   width: 4.2em;
   height: 4.2em;
+  border-radius: 10px !important;
 }
 #aside-content .aside-list > .aside-list-item .thumbnail > img {
   width: 100%;
@@ -3031,11 +3033,12 @@ blockquote footer cite:before {
   -o-transition: all 0.2s ease-in-out;
   -ms-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
+  border-radius: 10px !important;
 }
 #aside-content #card-toc .toc-content .toc-link.active {
-  border-left-color: #009d92;
   background: #00c4b6;
   color: #fff;
+  border-radius: 10px !important;
 }
 #aside-content #card-toc .toc-content:before {
   position: absolute;
@@ -3991,6 +3994,7 @@ _:future,
 }
 #pagination .pull-full {
   width: 100% !important;
+  border-radius: 15px;
 }
 #pagination .prev-post .label,
 #pagination .next-post .label {
@@ -4031,6 +4035,7 @@ _:future,
 #pagination.pagination-post {
   margin-top: 2rem;
   background: #000;
+  border-radius: 15px;
 }
 #article-container {
   word-wrap: break-word;
@@ -4537,7 +4542,8 @@ _:future,
 }
 .post-reward .reward-button {
   display: inline-block;
-  padding: 0.2rem 2.2rem;
+  padding: 0.2rem 3.2rem;
+  border-radius: 15px;
   background: var(--btn-bg);
   color: var(--btn-color);
   cursor: pointer;
@@ -4649,6 +4655,7 @@ _:future,
   color: var(--btn-color);
   text-align: center;
   font-size: 16px;
+  border-radius: 10px !important;
 }
 #rightside > div > button:hover,
 #rightside > div > a:hover {
@@ -4665,6 +4672,70 @@ _:future,
 @media screen and (max-width: 900px) {
   #rightside #hide-aside-btn {
     display: none;
+  }
+}
+@font-face {
+  font-family: 'UnidreamLED';
+  src: url("https://cdn.jsdelivr.net/gh/Akilarlxh/Akilarlxh.github.io@v3.3.3_3/clock/fonts/UnidreamLED.ttf");
+  font-display: swap;
+}
+div#runtime {
+  width: 180px;
+  margin: auto;
+  color: #fff;
+  padding-inline: 5px;
+  border-radius: 10px;
+  background-color: rgba(0,0,0,0.7);
+  font-family: 'UnidreamLED';
+}
+[data-theme="dark"] div#runtime {
+  color: #28b4c8;
+  -webkit-box-shadow: 0 0 5px rgba(28,69,218,0.71);
+  box-shadow: 0 0 5px rgba(28,69,218,0.71);
+  -webkit-animation: flashlight 1s linear infinite alternate;
+  -moz-animation: flashlight 1s linear infinite alternate;
+  -o-animation: flashlight 1s linear infinite alternate;
+  -ms-animation: flashlight 1s linear infinite alternate;
+  animation: flashlight 1s linear infinite alternate;
+}
+@-moz-keyframes flashlight {
+  from {
+    -webkit-box-shadow: 0 0 5px #1478d2;
+    box-shadow: 0 0 5px #1478d2;
+  }
+  to {
+    -webkit-box-shadow: 0 0 2px #1478d2;
+    box-shadow: 0 0 2px #1478d2;
+  }
+}
+@-webkit-keyframes flashlight {
+  from {
+    -webkit-box-shadow: 0 0 5px #1478d2;
+    box-shadow: 0 0 5px #1478d2;
+  }
+  to {
+    -webkit-box-shadow: 0 0 2px #1478d2;
+    box-shadow: 0 0 2px #1478d2;
+  }
+}
+@-o-keyframes flashlight {
+  from {
+    -webkit-box-shadow: 0 0 5px #1478d2;
+    box-shadow: 0 0 5px #1478d2;
+  }
+  to {
+    -webkit-box-shadow: 0 0 2px #1478d2;
+    box-shadow: 0 0 2px #1478d2;
+  }
+}
+@keyframes flashlight {
+  from {
+    -webkit-box-shadow: 0 0 5px #1478d2;
+    box-shadow: 0 0 5px #1478d2;
+  }
+  to {
+    -webkit-box-shadow: 0 0 2px #1478d2;
+    box-shadow: 0 0 2px #1478d2;
   }
 }
 #sidebar #menu-mask {
