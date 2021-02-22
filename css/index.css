@@ -6032,7 +6032,7 @@ figure.gallery-group {
   float: left;
   overflow: hidden;
   margin: 0.3rem 0.2rem;
-  width: calc(50% - 0.4rem);
+  width: calc(33% - 0.4rem);
   height: 250px;
   border-radius: 8px;
   background: #000;
