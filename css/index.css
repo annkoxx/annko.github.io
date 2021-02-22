@@ -6031,10 +6031,10 @@ figure.gallery-group {
   position: relative;
   float: left;
   overflow: hidden;
-  margin: 4px 0px 4px 8px;
-  width: calc(33% - 0.4rem);
+  margin: 0.3rem 0.2rem;
+  width: calc(50% - 0.4rem);
   height: 250px;
-  border-radius: 15px;
+  border-radius: 8px;
   background: #000;
   -webkit-transform: translate3d(0, 0, 0);
 }
