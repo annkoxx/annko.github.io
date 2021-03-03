@@ -55,3 +55,21 @@ setInterval(() => {
   //覆写挂载标签的内容
   document.getElementById("workboard").innerHTML = currentTimeHtml;
 }, 1000);
+
+// 可爱的Title
+var OriginTitle = document.title;
+var titleTime;
+document.addEventListener('visibilitychange', function() {
+    if (document.hidden) {
+        $('[rel="icon"]').attr('href', "/img/favicon.ico");
+        document.title = '(つェ⊂) 记得回来~~';
+        clearTimeout(titleTime);
+    } else {
+        $('[rel="icon"]').attr('href', "/img/favicon.ico");
+        document.title = '(*´∇｀*) 欢迎回家~~' + OriginTitle;
+        titleTime = setTimeout(function() {
+            document.title = OriginTitle;
+        }, 4000);
+    }
+});
+
