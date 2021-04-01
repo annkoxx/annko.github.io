@@ -2820,7 +2820,7 @@ blockquote footer cite:before {
   background-color: var(--btn-bg);
   color: var(--btn-color);
   text-align: center;
-  line-height: 4.4;
+  line-height: 2.5;
   border-radius: 10px;
   overflow: hidden;
 }
