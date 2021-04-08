@@ -21,7 +21,7 @@ Content to Reveal Here
 <p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
 <h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-<form class="pageclip-form" method="post" action="https://send.pageclip.co/yYo14hdvw3pSIJi1Y6maW1LFR7gOAUaI/docs-example"><input class="form-control" type="text" name="name" placeholder="比利·簡（Billy Jean）" required=""> <input class="form-control" type="email" name="email" placeholder="billy@example.com" required=""> <input type="hidden" name="example" value="basic"> <button class="button button_cta pageclip-form__submit" type="submit"><span><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">保存</font></font></span></button></form>
+<form class="pageclip-form" method="post" action="https://send.pageclip.co/yYo14hdvw3pSIJi1Y6maW1LFR7gOAUaI/homepage-example" data-reactid="184"><div class="form-group" data-reactid="185"><label data-reactid="186"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">你的郵件</font></font></label><input type="email" class="form-control" name="email" placeholder="ernie.foddlepock@theinternet.com" required="" data-reactid="187"></div><div class="form-group" data-reactid="188"><label data-reactid="189"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">你是怎麼知道我們的？</font></font></label><div class="dropdown form-control" data-reactid="190"><select name="heard" required="" data-reactid="191"><option value="" data-reactid="192"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">我不記得了</font></font></option><option value="ph" data-reactid="193"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">產品搜尋</font></font></option><option value="hn" data-reactid="194"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">黑客新聞</font></font></option><option value="human" data-reactid="195"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">另一個人</font></font></option><option value="surftho" data-reactid="196"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">上網衝浪🏄</font></font></option><option value="dream" data-reactid="197"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">它在夢中來到我身邊</font></font></option><option value="jingle" data-reactid="198"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">甜蜜的收音機叮噹聲</font></font></option><option value="probablywayne" data-reactid="199"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">怪異的裸體印度人</font></font></option></select></div></div><div class="form-group" data-reactid="200"><label data-reactid="201"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">你的精神動物</font></font></label><div class="check-option" data-reactid="202"><input type="radio" name="animal" value="tarantula" id="tarantula" required="" data-reactid="203"><label for="tarantula" data-reactid="204"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">塔蘭圖拉毒蛛</font></font></label></div><div class="check-option" data-reactid="205"><input type="radio" name="animal" value="nohaircat" id="nohaircat" required="" data-reactid="206"><label for="nohaircat" data-reactid="207"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">無毛貓</font></font></label></div><div class="check-option" data-reactid="208"><input type="radio" name="animal" value="turtle" id="turtle" required="" data-reactid="209"><label for="turtle" data-reactid="210"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">龜</font></font></label></div><div class="check-option" data-reactid="211"><input type="radio" name="animal" value="big-turtle" id="big-turtle" required="" data-reactid="212"><label for="big-turtle" data-reactid="213"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">大烏龜</font></font></label></div><div class="check-option" data-reactid="214"><input type="radio" name="animal" value="sea-eel" id="sea-eel" required="" data-reactid="215"><label for="sea-eel" data-reactid="216"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可怕的深海鰻魚</font></font></label></div></div><div class="form-group" data-reactid="217"><label data-reactid="218"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">你喜歡的東西</font></font></label><div class="check-option" data-reactid="219"><input type="checkbox" name="likes[pizza]" id="pizza" data-reactid="220" value="on"><label for="pizza" data-reactid="221"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">披薩🍕</font></font></label></div><div class="check-option" data-reactid="222"><input type="checkbox" name="likes[yams]" id="yams" data-reactid="223" value="on"><label for="yams" data-reactid="224"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">紅薯🍠</font></font></label></div><div class="check-option" data-reactid="225"><input type="checkbox" name="likes[tacos]" id="tacos" data-reactid="226" value="on"><label for="tacos" data-reactid="227"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">炸玉米餅🌮</font></font></label></div><div class="check-option" data-reactid="228"><input type="checkbox" name="likes[soccer]" id="soccer" data-reactid="229" value="on"><label for="soccer" data-reactid="230"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">足球🏈</font></font></label></div><div class="check-option" data-reactid="231"><input type="checkbox" name="likes[loudnoises]" id="loudnoises" data-reactid="232" value="on"><label for="loudnoises" data-reactid="233"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">大聲🔊</font></font></label></div></div><input type="hidden" name="version" value="v1" data-reactid="234"><button class="button button_cta pageclip-form__submit" type="submit" data-reactid="235"><span data-reactid="236"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讓我們知道</font></font></span></button></form>
 ]]></content>
       <categories>
         <category>hexo</category>
@@ -54,6 +54,24 @@ Content to Reveal Here
       </tags>
   </entry>
   <entry>
+    <title>在线短信测压平台——骗子无路可逃,爆赞！！</title>
+    <url>/bc034bd9056d/</url>
+    <content><![CDATA[<h2 id="今日歌曲推荐"><a href="#今日歌曲推荐" class="headerlink" title="今日歌曲推荐"></a>今日歌曲推荐</h2><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=1320884184&amp;auto=0&amp;height=66"></iframe>
+
+<h1 id="话不多说放图"><a href="#话不多说放图" class="headerlink" title="话不多说放图"></a>话不多说放图</h1><p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/annkoxx/img_annko/annko/QQ%E6%88%AA%E5%9B%BE20210401105001.png"></img></p>
+<h1 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h1><div class="tag link"><a class="link-card" title="短信测压" href="https://owo.nde.tw/"><div class="left"><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/annkoxx/img_annko/annko/favicon.png"/></div><div class="right"><p class="text">短信测压</p><p class="url">https://owo.nde.tw/</p></div></a></div>
+
+<h1 id="声明"><a href="#声明" class="headerlink" title="声明"></a>声明</h1><div class="tag link"><a class="link-card" title="网站声明" href="https://annko.cn/Privacy-policy/"><div class="left"><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/annkoxx/img_annko/annko/favicon.png"/></div><div class="right"><p class="text">网站声明</p><p class="url">https://annko.cn/Privacy-policy/</p></div></a></div>
+]]></content>
+      <categories>
+        <category>短信测压</category>
+      </categories>
+      <tags>
+        <tag>短信</tag>
+        <tag>测压</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>微信僵尸粉清理————小丑竟是我自己</title>
     <url>/cd4daf79e42f/</url>
     <content><![CDATA[<h2 id="今日歌曲推荐："><a href="#今日歌曲推荐：" class="headerlink" title="今日歌曲推荐："></a>今日歌曲推荐：</h2><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=1495845516&amp;auto=0&amp;height=66"></iframe>
@@ -76,95 +94,6 @@ Content to Reveal Here
       </tags>
   </entry>
   <entry>
-    <title>在线短信测压平台——骗子无路可逃,爆赞！！</title>
-    <url>/bc034bd9056d/</url>
-    <content><![CDATA[<h2 id="今日歌曲推荐"><a href="#今日歌曲推荐" class="headerlink" title="今日歌曲推荐"></a>今日歌曲推荐</h2><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=1320884184&amp;auto=0&amp;height=66"></iframe>
-
-<h1 id="话不多说放图"><a href="#话不多说放图" class="headerlink" title="话不多说放图"></a>话不多说放图</h1><p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/annkoxx/img_annko/annko/QQ%E6%88%AA%E5%9B%BE20210401105001.png"></img></p>
-<h1 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h1><div class="tag link"><a class="link-card" title="短信测压" href="https://owo.nde.tw/"><div class="left"><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/annkoxx/img_annko/annko/favicon.png"/></div><div class="right"><p class="text">短信测压</p><p class="url">https://owo.nde.tw/</p></div></a></div>
-
-<h1 id="声明"><a href="#声明" class="headerlink" title="声明"></a>声明</h1><div class="tag link"><a class="link-card" title="网站声明" href="https://annko.cn/Privacy-policy/"><div class="left"><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/annkoxx/img_annko/annko/favicon.png"/></div><div class="right"><p class="text">网站声明</p><p class="url">https://annko.cn/Privacy-policy/</p></div></a></div>
-]]></content>
-      <categories>
-        <category>短信测压</category>
-      </categories>
-      <tags>
-        <tag>短信</tag>
-        <tag>测压</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>解锁网易云变灰歌曲及付费专辑——附带iOS-安卓-win10教程</title>
-    <url>/e06f47f8b4fe/</url>
-    <content><![CDATA[<h2 id="今日歌曲推荐"><a href="#今日歌曲推荐" class="headerlink" title="今日歌曲推荐"></a>今日歌曲推荐</h2><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=27646274&amp;auto=1&amp;height=66"></iframe>
-
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>网易音乐相信不需要我过多的介绍大家也都知道，由于各种限制，相信很多人在听歌的时候也注意到了，很多的音乐呈现<b>灰色的样式</b>，是无法播放的，如下图所示。今天就带大家把灰色不能听的音乐全部变成可以正常播放的音乐，而且是<b>全平台</b>通用哦！</p>
-<p>注：<b>教程有点长，如果实在没有耐心请直接滑到最下方观看浏览器听音乐方案</b></p>
-<p><b>如果需要密码、密码都是 annko.cn</b></p>
-<h1 id="安卓端"><a href="#安卓端" class="headerlink" title="安卓端"></a>安卓端</h1><p>这里先膜拜一下大佬的<a href="https://github.com/ndroi/easy163">开源项目</a>，此版本一直更新，下载过程中出现的报毒，报错等等！可以忽略，直接安装即可使用！</p>
-<h2 id="方法一："><a href="#方法一：" class="headerlink" title="方法一："></a>方法一：</h2><h3 id="第一步"><a href="#第一步" class="headerlink" title="第一步:"></a>第一步:</h3><p>进入浏览器输入地址，下载安装即可，文件名叫 <span class='p red'>easy163-release-1.8.6.apk</span></p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">https://www.lanzoui.com/b01hsh25g</span><br></pre></td></tr></table></figure>
-<h3 id="第二步"><a href="#第二步" class="headerlink" title="第二步:"></a>第二步:</h3><p>打开软件，点击下面的按钮开启</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/annkoxx/img_annko/annko/37c8f2d2ab6904addac570dca293c63f.jpg"></img></p>
-<h3 id="第三步"><a href="#第三步" class="headerlink" title="第三步:"></a>第三步:</h3><p>软件后台运行，进入网易云音乐你会发现所有音乐已经解锁成功了，下面放两张效果图<br><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/annkoxx/img_annko/img/34b395ec86eec9ab111db87086e86d25.jpg"></img></p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/annkoxx/img_annko/annko/40e858b9d01d31f60cdc22dc0c315767.jpg"></img></p>
-<p>建议下载 网易云极速版（官方发布版本）地址为：</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">https://www.lanzoui.com/b01hsh25g</span><br></pre></td></tr></table></figure>
-<p>此版本网易云功能简单稳定，与本软件兼容良好,推荐使用！</p>
-<h2 id="方法二："><a href="#方法二：" class="headerlink" title="方法二："></a>方法二：</h2><p>请移步最下方观看不限端浏览器听音乐方案</p>
-<h1 id="iOS-端"><a href="#iOS-端" class="headerlink" title="iOS 端"></a>iOS 端</h1><h2 id="方法一：-1"><a href="#方法一：-1" class="headerlink" title="方法一："></a>方法一：</h2><p>iOS 端的使用也同样必须要连接 WiFi，iOS 设备还需安装 CA 证书。首先点击<a href="https://raw.githubusercontent.com/nondanee/UnblockNeteaseMusic/master/ca.crt">链接：</a></p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">https://raw.githubusercontent.com/nondanee/UnblockNeteaseMusic/master/ca.crt</span><br></pre></td></tr></table></figure>
-<p>添加证书，随后在   设置  &gt;  通用  &gt;  关于本机  &gt;  证书信任设置   下，手动开启证书，具体参考 Apple 官方说明：</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">https://support.apple.com/zh-cn/HT204477</span><br></pre></td></tr></table></figure>
-<p>安装后依次打开无线局域网＞ HTTP 代理＞配置代理，然后把代理选择为自动配置模式，同 Android 端一样，粘贴我提供的地址，记得点击右上角的存储！！！地址：</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">https://wy.ydlrqx.com/proxy.pac</span><br></pre></td></tr></table></figure>
-<h2 id="方法二：-1"><a href="#方法二：-1" class="headerlink" title="方法二："></a>方法二：</h2><p>请移步最下方观看不限端浏览器听音乐方案</p>
-<h1 id="Windows-端方法"><a href="#Windows-端方法" class="headerlink" title="Windows 端方法"></a>Windows 端方法</h1><p>优点：无需下载任何资源，只需几步设置即可，话不多说，直接上干活，我这里以 win10 为例，其他系统操作类似：</p>
-<h2 id="方法一：-2"><a href="#方法一：-2" class="headerlink" title="方法一："></a>方法一：</h2><h3 id="第一步："><a href="#第一步：" class="headerlink" title="第一步："></a>第一步：</h3><p>鼠标左键点击桌面右下角的通知气泡</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/annkoxx/img_annko/img/89c092cbcadacb2fc4673a1a44feb597.png"></img></p>
-<h3 id="第二步："><a href="#第二步：" class="headerlink" title="第二步："></a>第二步：</h3><p>然后鼠标左键点击所有设置</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/annkoxx/img_annko/img/000e81949879c2696dadb9d1432c31fd.png"></img></p>
-<h3 id="第三步："><a href="#第三步：" class="headerlink" title="第三步："></a>第三步：</h3><p>鼠标左键点击点击进入网络和 intrnet</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/annkoxx/img_annko/img/137fed278f274e7d997d856fb8137288.png"></img></p>
-<h3 id="第四步："><a href="#第四步：" class="headerlink" title="第四步："></a>第四步：</h3><p>脚本地址：</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">https://wy.ydlrqx.com/proxy.pac</span><br></pre></td></tr></table></figure>
-<p>操作步骤请直接看下图，都是使用鼠标左键点击</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/annkoxx/img_annko/img/e619311e1378b65f8d294b31ee6f80db.png"></img></p>
-<h3 id="第五步："><a href="#第五步：" class="headerlink" title="第五步："></a>第五步：</h3><p>打开网易云音乐，进入设置，操作步骤见下图，都是使用鼠标左键点击</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/annkoxx/img_annko/img/d9edeb74b4cfacc4d307213dda53522e.png"></img></p>
-<p>最终效果如下:</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/annkoxx/img_annko/img/b57daf1741ac99bdcc5b5579c65e48eb.png"></img></p>
-<h2 id="方法二：-2"><a href="#方法二：-2" class="headerlink" title="方法二："></a>方法二：</h2><p>请移步最下方观看不限端浏览器听音乐方案</p>
-<h1 id="MacOS-端"><a href="#MacOS-端" class="headerlink" title="MacOS 端"></a>MacOS 端</h1><p>由于本人家境贫寒，买不起苹果电脑，又不想用黑苹果，无法截图说明，所以这里直接文字描述!</p>
-<p>操作步骤跟 win10 大同小异，大同小异！</p>
-<h2 id="方法一：-3"><a href="#方法一：-3" class="headerlink" title="方法一："></a>方法一：</h2><p>MacOS 端的使用与以上 Windows 端第三种方法同理</p>
-<p>依次打开系统偏好设置＞网络＞高级＞代理</p>
-<p>然后填入地址：</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">https://wy.ydlrqx.com/proxy.pac</span><br></pre></td></tr></table></figure>
-<h2 id="方法二：-3"><a href="#方法二：-3" class="headerlink" title="方法二："></a>方法二：</h2><p>请移步最下方观看不限端浏览器听音乐方案</p>
-<h1 id="Linux-端"><a href="#Linux-端" class="headerlink" title="Linux 端"></a>Linux 端</h1><p>会用 Linux 的都不应该是小白，所以这里就不截图了，直接上文字描述</p>
-<h2 id="方法一：-4"><a href="#方法一：-4" class="headerlink" title="方法一："></a>方法一：</h2><p>Linux 端的使用也同样与以上 Windows 端第三种方法和 macOS 端方法同理</p>
-<p>依次进入系统设置＞网络＞网络代理，</p>
-<p>然后填入地址：</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">https://wy.ydlrqx.com/proxy.pac</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-<h2 id="方法二：-4"><a href="#方法二：-4" class="headerlink" title="方法二："></a>方法二：</h2><p>请移步最下方观看不限端浏览器听音乐方案</p>
-<h1 id="不限端浏览器听音乐"><a href="#不限端浏览器听音乐" class="headerlink" title="不限端浏览器听音乐"></a>不限端浏览器听音乐</h1><p>如果实在嫌麻烦，上面的教程都不用看，直接打开浏览器输入网址</p>
-<p><a href="https://music.nde.tw/">https://music.nde.tw</a></p>
-<p>直接上车，已解锁无版权歌曲，支持下载</p>
-<p>下面放一张截图</p>
-<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/annkoxx/img_annko/img/38c75b5b39f0ca6a09a1bf89d9063b9a.png"></img></p>
-<h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>不管是什么端，我们都有解决办法！安卓的其实也可以参考 iOS 的设置一下，然后就不用下载那个软件了，安卓的要记得软件要一直后台运行！iOS 的必须要 WiFi 模式下才能用！其实 iOS 也有不用 WiFi 的办法，如果有人需要的话我会在出一期教程，不需要 WiFi 模式下要借助另外一个软件，那个软件是 iOS 应用商店美区收费软件，到时候我会提供共享 ID 大家来下载！win10 端的话其实最后那个不端的网页播放器挺好的，但是就是没有自己的歌单！最后感谢大佬们默默无闻的付出，在下只是大自然的搬运工，<a href="https://github.com/meng-chuan/Unlock-netease-cloud-music">原文出处</a>！</p>
-<p><b><span class='p center small'>本教程仅用于学习交流，如有侵权请联系本人删除，禁止他人用于非法用途，转载请注明出处，谢谢！！！</span></b></p>
-]]></content>
-      <categories>
-        <category>网易云</category>
-      </categories>
-      <tags>
-        <tag>音乐</tag>
-        <tag>网易云</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>隐私政策</title>
     <url>/eed3ef94e356/</url>
     <content><![CDATA[<h1 id="【法律申明】"><a href="#【法律申明】" class="headerlink" title="【法律申明】"></a>【法律申明】</h1><ol>
@@ -181,7 +110,7 @@ Content to Reveal Here
 <li>本网站使用者因为违反本声明的规定而触犯中华人民共和国法律的，一切后果自己负责，本网站不承担任何责任。</li>
 <li>凡以任何方式登陆本网站或直接、间接使用本网站资料者，视为自愿接受本网站声明的约束。</li>
 <li>本声明未涉及的问题参见国家有关法律法规，当本声明与国家法律法规冲突时，以国家法律法规为准。</li>
-<li>本网站如无意中侵犯了某个媒体或个人的知识产权，请来邮件（<a href="mailto:&#x77;&#122;&#x6d;&#56;&#x30;&#57;&#56;&#x38;&#x40;&#71;&#109;&#97;&#x69;&#x6c;&#46;&#x63;&#111;&#109;">&#x77;&#122;&#x6d;&#56;&#x30;&#57;&#56;&#x38;&#x40;&#71;&#109;&#97;&#x69;&#x6c;&#46;&#x63;&#111;&#109;</a>）告之，本网站将立即删除。</li>
+<li>本网站如无意中侵犯了某个媒体或个人的知识产权，请来邮件（<a href="mailto:&#x77;&#122;&#x6d;&#x38;&#48;&#x39;&#x38;&#x38;&#64;&#x47;&#x6d;&#x61;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#109;">&#x77;&#122;&#x6d;&#x38;&#48;&#x39;&#x38;&#x38;&#64;&#x47;&#x6d;&#x61;&#x69;&#x6c;&#x2e;&#x63;&#x6f;&#109;</a>）告之，本网站将立即删除。</li>
 </ol>
 <h1 id="【我们是谁】"><a href="#【我们是谁】" class="headerlink" title="【我们是谁】"></a>【我们是谁】</h1><ol>
 <li>我们的站点地址是：<a href="https://annko.cn/">https://annko.cn</a></li>
@@ -258,6 +187,77 @@ Content to Reveal Here
       </categories>
       <tags>
         <tag>隐私政策</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>解锁网易云变灰歌曲及付费专辑——附带iOS-安卓-win10教程</title>
+    <url>/e06f47f8b4fe/</url>
+    <content><![CDATA[<h2 id="今日歌曲推荐"><a href="#今日歌曲推荐" class="headerlink" title="今日歌曲推荐"></a>今日歌曲推荐</h2><iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&amp;id=27646274&amp;auto=1&amp;height=66"></iframe>
+
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>网易音乐相信不需要我过多的介绍大家也都知道，由于各种限制，相信很多人在听歌的时候也注意到了，很多的音乐呈现<b>灰色的样式</b>，是无法播放的，如下图所示。今天就带大家把灰色不能听的音乐全部变成可以正常播放的音乐，而且是<b>全平台</b>通用哦！</p>
+<p>注：<b>教程有点长，如果实在没有耐心请直接滑到最下方观看浏览器听音乐方案</b></p>
+<p><b>如果需要密码、密码都是 annko.cn</b></p>
+<h1 id="安卓端"><a href="#安卓端" class="headerlink" title="安卓端"></a>安卓端</h1><p>这里先膜拜一下大佬的<a href="https://github.com/ndroi/easy163">开源项目</a>，此版本一直更新，下载过程中出现的报毒，报错等等！可以忽略，直接安装即可使用！</p>
+<h2 id="方法一："><a href="#方法一：" class="headerlink" title="方法一："></a>方法一：</h2><h3 id="第一步"><a href="#第一步" class="headerlink" title="第一步:"></a>第一步:</h3><p>进入浏览器输入地址，下载安装即可，文件名叫 <span class='p red'>easy163-release-1.8.6.apk</span></p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">https://www.lanzoui.com/b01hsh25g</span><br></pre></td></tr></table></figure>
+<h3 id="第二步"><a href="#第二步" class="headerlink" title="第二步:"></a>第二步:</h3><p>打开软件，点击下面的按钮开启</p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/annkoxx/img_annko/annko/37c8f2d2ab6904addac570dca293c63f.jpg"></img></p>
+<h3 id="第三步"><a href="#第三步" class="headerlink" title="第三步:"></a>第三步:</h3><p>软件后台运行，进入网易云音乐你会发现所有音乐已经解锁成功了，下面放两张效果图<br><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/annkoxx/img_annko/img/34b395ec86eec9ab111db87086e86d25.jpg"></img></p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/annkoxx/img_annko/annko/40e858b9d01d31f60cdc22dc0c315767.jpg"></img></p>
+<p>建议下载 网易云极速版（官方发布版本）地址为：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">https://www.lanzoui.com/b01hsh25g</span><br></pre></td></tr></table></figure>
+<p>此版本网易云功能简单稳定，与本软件兼容良好,推荐使用！</p>
+<h2 id="方法二："><a href="#方法二：" class="headerlink" title="方法二："></a>方法二：</h2><p>请移步最下方观看不限端浏览器听音乐方案</p>
+<h1 id="iOS-端"><a href="#iOS-端" class="headerlink" title="iOS 端"></a>iOS 端</h1><h2 id="方法一：-1"><a href="#方法一：-1" class="headerlink" title="方法一："></a>方法一：</h2><p>iOS 端的使用也同样必须要连接 WiFi，iOS 设备还需安装 CA 证书。首先点击<a href="https://raw.githubusercontent.com/nondanee/UnblockNeteaseMusic/master/ca.crt">链接：</a></p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">https://raw.githubusercontent.com/nondanee/UnblockNeteaseMusic/master/ca.crt</span><br></pre></td></tr></table></figure>
+<p>添加证书，随后在   设置  &gt;  通用  &gt;  关于本机  &gt;  证书信任设置   下，手动开启证书，具体参考 Apple 官方说明：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">https://support.apple.com/zh-cn/HT204477</span><br></pre></td></tr></table></figure>
+<p>安装后依次打开无线局域网＞ HTTP 代理＞配置代理，然后把代理选择为自动配置模式，同 Android 端一样，粘贴我提供的地址，记得点击右上角的存储！！！地址：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">https://wy.ydlrqx.com/proxy.pac</span><br></pre></td></tr></table></figure>
+<h2 id="方法二：-1"><a href="#方法二：-1" class="headerlink" title="方法二："></a>方法二：</h2><p>请移步最下方观看不限端浏览器听音乐方案</p>
+<h1 id="Windows-端方法"><a href="#Windows-端方法" class="headerlink" title="Windows 端方法"></a>Windows 端方法</h1><p>优点：无需下载任何资源，只需几步设置即可，话不多说，直接上干活，我这里以 win10 为例，其他系统操作类似：</p>
+<h2 id="方法一：-2"><a href="#方法一：-2" class="headerlink" title="方法一："></a>方法一：</h2><h3 id="第一步："><a href="#第一步：" class="headerlink" title="第一步："></a>第一步：</h3><p>鼠标左键点击桌面右下角的通知气泡</p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/annkoxx/img_annko/img/89c092cbcadacb2fc4673a1a44feb597.png"></img></p>
+<h3 id="第二步："><a href="#第二步：" class="headerlink" title="第二步："></a>第二步：</h3><p>然后鼠标左键点击所有设置</p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/annkoxx/img_annko/img/000e81949879c2696dadb9d1432c31fd.png"></img></p>
+<h3 id="第三步："><a href="#第三步：" class="headerlink" title="第三步："></a>第三步：</h3><p>鼠标左键点击点击进入网络和 intrnet</p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/annkoxx/img_annko/img/137fed278f274e7d997d856fb8137288.png"></img></p>
+<h3 id="第四步："><a href="#第四步：" class="headerlink" title="第四步："></a>第四步：</h3><p>脚本地址：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">https://wy.ydlrqx.com/proxy.pac</span><br></pre></td></tr></table></figure>
+<p>操作步骤请直接看下图，都是使用鼠标左键点击</p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/annkoxx/img_annko/img/e619311e1378b65f8d294b31ee6f80db.png"></img></p>
+<h3 id="第五步："><a href="#第五步：" class="headerlink" title="第五步："></a>第五步：</h3><p>打开网易云音乐，进入设置，操作步骤见下图，都是使用鼠标左键点击</p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/annkoxx/img_annko/img/d9edeb74b4cfacc4d307213dda53522e.png"></img></p>
+<p>最终效果如下:</p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/annkoxx/img_annko/img/b57daf1741ac99bdcc5b5579c65e48eb.png"></img></p>
+<h2 id="方法二：-2"><a href="#方法二：-2" class="headerlink" title="方法二："></a>方法二：</h2><p>请移步最下方观看不限端浏览器听音乐方案</p>
+<h1 id="MacOS-端"><a href="#MacOS-端" class="headerlink" title="MacOS 端"></a>MacOS 端</h1><p>由于本人家境贫寒，买不起苹果电脑，又不想用黑苹果，无法截图说明，所以这里直接文字描述!</p>
+<p>操作步骤跟 win10 大同小异，大同小异！</p>
+<h2 id="方法一：-3"><a href="#方法一：-3" class="headerlink" title="方法一："></a>方法一：</h2><p>MacOS 端的使用与以上 Windows 端第三种方法同理</p>
+<p>依次打开系统偏好设置＞网络＞高级＞代理</p>
+<p>然后填入地址：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">https://wy.ydlrqx.com/proxy.pac</span><br></pre></td></tr></table></figure>
+<h2 id="方法二：-3"><a href="#方法二：-3" class="headerlink" title="方法二："></a>方法二：</h2><p>请移步最下方观看不限端浏览器听音乐方案</p>
+<h1 id="Linux-端"><a href="#Linux-端" class="headerlink" title="Linux 端"></a>Linux 端</h1><p>会用 Linux 的都不应该是小白，所以这里就不截图了，直接上文字描述</p>
+<h2 id="方法一：-4"><a href="#方法一：-4" class="headerlink" title="方法一："></a>方法一：</h2><p>Linux 端的使用也同样与以上 Windows 端第三种方法和 macOS 端方法同理</p>
+<p>依次进入系统设置＞网络＞网络代理，</p>
+<p>然后填入地址：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">https://wy.ydlrqx.com/proxy.pac</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+<h2 id="方法二：-4"><a href="#方法二：-4" class="headerlink" title="方法二："></a>方法二：</h2><p>请移步最下方观看不限端浏览器听音乐方案</p>
+<h1 id="不限端浏览器听音乐"><a href="#不限端浏览器听音乐" class="headerlink" title="不限端浏览器听音乐"></a>不限端浏览器听音乐</h1><p>如果实在嫌麻烦，上面的教程都不用看，直接打开浏览器输入网址</p>
+<p><a href="https://music.nde.tw/">https://music.nde.tw</a></p>
+<p>直接上车，已解锁无版权歌曲，支持下载</p>
+<p>下面放一张截图</p>
+<p><img src= "/img/loading.gif" data-lazy-src="https://cdn.jsdelivr.net/gh/annkoxx/img_annko/img/38c75b5b39f0ca6a09a1bf89d9063b9a.png"></img></p>
+<h1 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h1><p>不管是什么端，我们都有解决办法！安卓的其实也可以参考 iOS 的设置一下，然后就不用下载那个软件了，安卓的要记得软件要一直后台运行！iOS 的必须要 WiFi 模式下才能用！其实 iOS 也有不用 WiFi 的办法，如果有人需要的话我会在出一期教程，不需要 WiFi 模式下要借助另外一个软件，那个软件是 iOS 应用商店美区收费软件，到时候我会提供共享 ID 大家来下载！win10 端的话其实最后那个不端的网页播放器挺好的，但是就是没有自己的歌单！最后感谢大佬们默默无闻的付出，在下只是大自然的搬运工，<a href="https://github.com/meng-chuan/Unlock-netease-cloud-music">原文出处</a>！</p>
+<p><b><span class='p center small'>本教程仅用于学习交流，如有侵权请联系本人删除，禁止他人用于非法用途，转载请注明出处，谢谢！！！</span></b></p>
+]]></content>
+      <categories>
+        <category>网易云</category>
+      </categories>
+      <tags>
+        <tag>音乐</tag>
+        <tag>网易云</tag>
       </tags>
   </entry>
   <entry>
