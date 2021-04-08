@@ -73,3 +73,10 @@ a {
   transform: perspective(800px);
   border-radius: 12px;
 }
+
+
+
+.pageclip-form__submit::after {
+  border-color: rgba(0, 255, 0, 0.8);
+  border-left-color: blue;
+}
