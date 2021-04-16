@@ -99,4 +99,9 @@ a > img, .justified-gallery > div > img,
 
 .hide-inline > .hide-button, .hide-block > .hide-button {
   overflow:hidden;
+  padding:0.5rem 1rem;
+}
+
+#error-wrap .error-content .error-info a{
+  overflow:hidden;
 }
