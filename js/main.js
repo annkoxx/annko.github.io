@@ -164,7 +164,7 @@ document.addEventListener('DOMContentLoaded', function () {
       if (isHighlightLang) {
         if (isPrismjs) {
           $figureHighlight.forEach(function (item) {
-            const langName = item.getAttribute('data-language') !== undefined ? item.getAttribute('data-language') : 'Code'
+            const langName = item.getAttribute('data-language') !== undefined ? item.getAttribute('data-language') : 'Code+++'
             const highlightLangEle = `<div class="code-lang">${langName}</div>`
             btf.wrap(item, 'figure', '', 'highlight')
             const newEle = createEle()
@@ -174,7 +174,7 @@ document.addEventListener('DOMContentLoaded', function () {
         } else {
           $figureHighlight.forEach(function (item) {
             let langName = item.getAttribute('class').split(' ')[1]
-            if (langName === 'plain' || langName === undefined) langName = 'Code'
+            if (langName === 'plain' || langName === undefined) langName = 'Code+++'
             const highlightLangEle = `<div class="code-lang">${langName}</div>`
             const newEle = createEle()
             newEle.innerHTML = highlightShrinkEle + highlightLangEle + highlightCopyEle
